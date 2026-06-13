@@ -1,10 +1,10 @@
 # Preciolalah_de-Coffee-Shop-plc-Sales-Dashboard
-# ☕ Coffee Shop Sales Dashboard
-## 📊 Project Overview
+#  Coffee Shop Sales Dashboard
+##  Project Overview
 
 This project presents an interactive **Coffee Shop Sales Dashboard** developed in Microsoft Excel to analyze sales performance, customer purchasing behavior, product trends, and business insights. The dashboard transforms raw transactional data into meaningful visualizations that support data-driven decision-making.
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 * Analyze overall sales performance.
 * Identify top-selling products and categories.
@@ -13,7 +13,7 @@ This project presents an interactive **Coffee Shop Sales Dashboard** developed i
 * Provide actionable insights for business growth.
 * Create an interactive and user-friendly dashboard.
 
-## 📁 Dataset Information
+##  Dataset Information
 
 The dataset contains coffee shop transaction records including:
 
@@ -26,7 +26,7 @@ The dataset contains coffee shop transaction records including:
 * Total Sales
 * Store Location
 
-## 🧹 Data Cleaning Process
+##  Data Cleaning Process
 
 The following data cleaning steps were performed in Microsoft Excel before building the dashboard:
 
@@ -61,7 +61,7 @@ The following data cleaning steps were performed in Microsoft Excel before build
   * Hour of Transaction
 * Generated calculated fields for enhanced analysis.
 
-## 🛠️ Tools Used
+##  Tools Used
 
 ### Microsoft Excel
 * Pivot Tables
@@ -82,7 +82,7 @@ The following data cleaning steps were performed in Microsoft Excel before build
 
 ![A screenshot of the dashboard](Coffeee.png)
 
-## 🔍 Key Insights
+## Key Insights
 
 * Identified the best-performing products.
 * Determined peak sales periods.
@@ -90,7 +90,7 @@ The following data cleaning steps were performed in Microsoft Excel before build
 * Analyzed customer purchasing behavior.
 * Highlighted opportunities for inventory optimization.
 
-## 🚀 Skills Demonstrated
+##  Skills Demonstrated
 
 * Data Cleaning
 * Data Transformation
